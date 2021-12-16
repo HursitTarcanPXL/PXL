@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ky/PDnuAav9hIfozbi7UC6OfbVohyLqlOLFNfiDYC4SIenIwNCXU8ysk7qBrD8WR4YW21/LGOeQA7Yi9DP46CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hursit Tarcan\\Desktop\\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\\SamuraiApp - Creating the model\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

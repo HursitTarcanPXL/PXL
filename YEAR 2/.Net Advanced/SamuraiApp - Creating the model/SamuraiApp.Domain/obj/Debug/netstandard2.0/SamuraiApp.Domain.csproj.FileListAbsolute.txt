@@ -1,0 +1,9 @@
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.deps.json
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Hursit Tarcan\Desktop\GIP SINAN NIET VERWIJDEREN!!!!!!!!!!!!!\SamuraiApp - Creating the model\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
